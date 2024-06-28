@@ -1,0 +1,22 @@
+h1 {
+    color: green;
+    background-color: aqua; max-width: fit-content;
+    
+}
+h4 {
+    max-width: fit-content;
+}
+body {
+    text-align: justify;
+    color: black;
+}
+header {
+    color: black;
+    background-color: bisque;
+}
+div {
+    text-align: justify;
+}
+a:hover {
+    color: blueviolet;
+}
